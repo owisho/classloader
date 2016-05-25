@@ -2,7 +2,6 @@ package per.owisho.learn.classloader;
 
 import java.io.ByteArrayOutputStream;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 /**
